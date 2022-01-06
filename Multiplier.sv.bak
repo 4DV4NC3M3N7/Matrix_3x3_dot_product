@@ -1,0 +1,18 @@
+module Array	(
+					input a,Sin,Cin,
+					inout b,
+					output Sout,Cout
+					);
+					
+	full_adder block0(.a(Sin),.b(a&b),.Cin(Cin),.Sout(Sout),.Cout(Cout));
+
+endmodule 
+
+module full_adder(
+						input a,b,Cin,
+						output Sout,Cout
+					  );
+		assign Sout = ((a^b)^Cin);
+		assign Cout = (a&b)|((a^b)&Cin);
+					  
+endmodule 

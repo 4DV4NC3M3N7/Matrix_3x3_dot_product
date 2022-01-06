@@ -1,0 +1,628 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Quartus_18.1_lite
+vAdder
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1636859947
+!i10b 1
+!s100 H18niRYmNZJigJFLf][6o1
+IkHST7XKg]KWGVlM]oocoW3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 Adder_sv_unit
+S1
+Z4 dG:/VLSI_ASIC_IC_designs/matrix_/Matrix_
+Z5 w1634890242
+Z6 8G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv
+Z7 FG:/VLSI_ASIC_IC_designs/Matrix/Adder.sv
+L0 70
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1636859947.000000
+Z10 !s107 G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@adder
+vcarry_block_4bits
+R0
+R1
+!i10b 1
+!s100 _=37OY4CdI]Q0fPG7omdF1
+I[?ESk]K@U]B?Sk7]3L^_>2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 22
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vdecoder_4bits
+R0
+R1
+!i10b 1
+!s100 l_b9jbBT8[UzSBGlgd<LX3
+IL^`eGE0^bGJU:=b`@[aiD1
+R2
+Z14 !s105 Register_sv_unit
+S1
+R4
+Z15 w1636813993
+Z16 8G:/VLSI_ASIC_IC_designs/Matrix/Register.sv
+Z17 FG:/VLSI_ASIC_IC_designs/Matrix/Register.sv
+L0 66
+R8
+r1
+!s85 0
+31
+R9
+Z18 !s107 G:/VLSI_ASIC_IC_designs/Matrix/Register.sv|
+Z19 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/Matrix/Register.sv|
+!i113 1
+R12
+R13
+vDot_product
+R0
+!s110 1636845928
+!i10b 1
+!s100 o<8Nc7M_3Rb6NV=o[1@MC2
+Ijl18I?CgmVCmM?^6m<Aof1
+R2
+Z20 !s105 Dot_product_sv_unit
+S1
+Z21 dG:/VLSI_ASIC_IC_designs/Matrix
+w1636807857
+Z22 8G:/VLSI_ASIC_IC_designs/Matrix/Dot_product.sv
+Z23 FG:/VLSI_ASIC_IC_designs/Matrix/Dot_product.sv
+L0 8
+R8
+r1
+!s85 0
+31
+!s108 1636845928.000000
+Z24 !s107 G:/VLSI_ASIC_IC_designs/Matrix/Dot_product.sv|
+Z25 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/Matrix/Dot_product.sv|
+!i113 1
+R12
+R13
+n@dot_product
+vDot_product_
+R0
+R1
+!i10b 1
+!s100 _[TV?9z_TGlAeRoU>@:h;1
+IKP<8IzL7MEkb6o@GaAdKB3
+R2
+R20
+S1
+R4
+Z26 w1636846970
+R22
+R23
+Z27 L0 48
+R8
+r1
+!s85 0
+31
+R9
+R24
+R25
+!i113 1
+R12
+R13
+n@dot_product_
+vDot_product_single_slot
+R0
+R1
+!i10b 1
+!s100 80ACQ5`LzzNbeI?HLY25h3
+INP3`?hX`ZHA`fGDSW>eg91
+R2
+R20
+S1
+R4
+R26
+R22
+R23
+L0 138
+R8
+r1
+!s85 0
+31
+R9
+R24
+R25
+!i113 1
+R12
+R13
+n@dot_product_single_slot
+vDot_product_tb
+R0
+R1
+!i10b 1
+!s100 ^<ed_G`EZ9ZTIB6lMhlk]3
+I[bAWbh]hjhRCTjL=JYL@X1
+R2
+!s105 Dot_product_tb_sv_unit
+S1
+R4
+w1636813994
+8G:/VLSI_ASIC_IC_designs/Matrix/Dot_product_tb.sv
+FG:/VLSI_ASIC_IC_designs/Matrix/Dot_product_tb.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 G:/VLSI_ASIC_IC_designs/Matrix/Dot_product_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/Matrix/Dot_product_tb.sv|
+!i113 1
+R12
+R13
+n@dot_product_tb
+vDot_product_unit
+R0
+!s110 1635313386
+!i10b 1
+!s100 Ln8;GWLoYf>lkA5CBJhI53
+IQP2`_:1Hg9U4TckR?XOb;3
+R2
+R20
+S1
+R21
+w1635238845
+Z28 8G:\VLSI_ASIC_IC_designs\Matrix\Dot_product.sv
+Z29 FG:\VLSI_ASIC_IC_designs\Matrix\Dot_product.sv
+Z30 L0 24
+R8
+r1
+!s85 0
+31
+!s108 1635313386.000000
+Z31 !s107 G:\VLSI_ASIC_IC_designs\Matrix\Dot_product.sv|
+Z32 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:\VLSI_ASIC_IC_designs\Matrix\Dot_product.sv|
+!i113 1
+R12
+R13
+n@dot_product_unit
+vFA_4bits
+R0
+R1
+!i10b 1
+!s100 dWU1A85;8<W]GW<6a:BVL1
+Iob@Q^8UEVKe_Bz^]1_;PU0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+R27
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@f@a_4bits
+vff_
+R0
+R1
+!i10b 1
+!s100 i5?]DS99>k0bIgQIhcjA20
+IkDVDWaB^>4PAZhilnMijL2
+R2
+Z33 !s105 FSM_sv_unit
+S1
+R4
+Z34 w1636846294
+Z35 8G:/VLSI_ASIC_IC_designs/Matrix/FSM.sv
+Z36 FG:/VLSI_ASIC_IC_designs/Matrix/FSM.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+Z37 !s107 G:/VLSI_ASIC_IC_designs/Matrix/FSM.sv|
+Z38 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/Matrix/FSM.sv|
+!i113 1
+R12
+R13
+vFSM
+R0
+R1
+!i10b 1
+!s100 eTX9OU7dRN4KB7ac7N3YX1
+IRz:bNj3PDI[]7<@ITK0b62
+R2
+R33
+S1
+R4
+R34
+R35
+R36
+R30
+R8
+r1
+!s85 0
+31
+R9
+R37
+R38
+!i113 1
+R12
+R13
+n@f@s@m
+vFSM_
+R0
+!s110 1636813901
+!i10b 1
+!s100 F6FQ<?]hbfF9za6>VC_XL2
+I:V65gP6e`b>FW7MGdAYF:1
+R2
+R33
+S1
+R21
+w1636813892
+R35
+R36
+R30
+R8
+r1
+!s85 0
+31
+!s108 1636813901.000000
+R37
+R38
+!i113 1
+R12
+R13
+n@f@s@m_
+vfull_adder
+R0
+R1
+!i10b 1
+!s100 g`I`?]33L7V4b6dCDWgdY0
+I51cfOB;FLoF58KHDU50Nm3
+R2
+Z39 !s105 Multiplier_sv_unit
+S1
+R4
+Z40 w1635236673
+Z41 8G:/VLSI_ASIC_IC_designs/Matrix/Multiplier.sv
+Z42 FG:/VLSI_ASIC_IC_designs/Matrix/Multiplier.sv
+L0 11
+R8
+r1
+!s85 0
+31
+R9
+Z43 !s107 G:/VLSI_ASIC_IC_designs/Matrix/Multiplier.sv|
+Z44 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/Matrix/Multiplier.sv|
+!i113 1
+R12
+R13
+vfull_adder_1_bit
+R0
+R1
+!i10b 1
+!s100 B@?HjA9bj=OCe4lbBJ8D:0
+I5JaBP8GUb7InPCK5=mI]G1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vMultiplier
+R0
+R1
+!i10b 1
+!s100 Q>4QXPRJ?KVgU>`WM>aLm2
+IK1BR4<dn;KLa?YoBm4NLX2
+R2
+R39
+S1
+R4
+R40
+R41
+R42
+L0 20
+R8
+r1
+!s85 0
+31
+R9
+R43
+R44
+!i113 1
+R12
+R13
+n@multiplier
+vMultiplier_unit
+R0
+R1
+!i10b 1
+!s100 Cl>BkNUW[@[NRRSCVLHi51
+I5jS:kcg^Ckm@d1DJ5AURK0
+R2
+R39
+S1
+R4
+R40
+R41
+R42
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R43
+R44
+!i113 1
+R12
+R13
+n@multiplier_unit
+vMUX_9_to_1bits
+R0
+R1
+!i10b 1
+!s100 c9L]>6LNm6I8EM9D<8zoi2
+IV]F;;8a3cTl10YXTiGkOi0
+R2
+R14
+S1
+R4
+R15
+R16
+R17
+L0 81
+R8
+r1
+!s85 0
+31
+R9
+R18
+R19
+!i113 1
+R12
+R13
+n@m@u@x_9_to_1bits
+vmux_ALU_select_16_functions
+R0
+!s110 1634919753
+!i10b 1
+!s100 ]BzGB10<dJlhEWM:_NjDY0
+IScQWZNfXZ;I0mgP=033Ui1
+R2
+R20
+S1
+R21
+w1634919641
+R28
+R29
+L0 29
+R8
+r1
+!s85 0
+31
+!s108 1634919753.000000
+R31
+R32
+!i113 1
+R12
+R13
+nmux_@a@l@u_select_16_functions
+vmux_ALU_select_3_to_1_functions
+R0
+R1
+!i10b 1
+!s100 g7>>ef:2^^mCzI[52NCT?1
+IQCFo=B^Dc0lgKCTB34gPZ2
+R2
+R20
+S1
+R4
+R26
+R22
+R23
+L0 152
+R8
+r1
+!s85 0
+31
+R9
+R24
+R25
+!i113 1
+R12
+R13
+nmux_@a@l@u_select_3_to_1_functions
+vone_hot
+R0
+R1
+!i10b 1
+!s100 Blk]l2T1_FH<ZMmjBA=:m3
+ImlgSVz[<3?V]P7Jd[Eg>B3
+R2
+R33
+S1
+R4
+R34
+R35
+R36
+L0 42
+R8
+r1
+!s85 0
+31
+R9
+R37
+R38
+!i113 1
+R12
+R13
+vRegister
+R0
+R1
+!i10b 1
+!s100 2nVR6G4_]H__4oO:o>m921
+I?YW1lk8WP01ok0Rm[YNH:3
+R2
+R14
+S1
+R4
+R15
+R16
+R17
+L0 16
+R8
+r1
+!s85 0
+31
+R9
+R18
+R19
+!i113 1
+R12
+R13
+n@register
+vRegister_
+R0
+R1
+!i10b 1
+!s100 ?:VW5B04O6m[5Tk=aZcWV1
+IGoK7QVJO1Za[_Z2:bJTe91
+R2
+R14
+S1
+R4
+R15
+R16
+R17
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R18
+R19
+!i113 1
+R12
+R13
+n@register_
+vRegister_16bits
+R0
+!s110 1635313387
+!i10b 1
+!s100 ]S_7=laJ`d3oA?n=0zoK[1
+IF`4@ohF_TW[:T[ka8^^L=2
+R2
+R14
+S1
+R21
+w1635313382
+R16
+R17
+L0 13
+R8
+r1
+!s85 0
+31
+!s108 1635313387.000000
+R18
+R19
+!i113 1
+R12
+R13
+n@register_16bits
+vRegister_32bits
+R0
+R1
+!i10b 1
+!s100 W1[0:Jl1LYI:;WM9]1U^C3
+IWLJczeV4^;]WYWgoD]`e<1
+R2
+R14
+S1
+R4
+R15
+R16
+R17
+L0 41
+R8
+r1
+!s85 0
+31
+R9
+R18
+R19
+!i113 1
+R12
+R13
+n@register_32bits
+vslot_scan
+R0
+R1
+!i10b 1
+!s100 o>No6@P@Z5eY[Xd@KlNTg0
+IEkcml_1BWSXL>ELj7]ng<2
+R2
+R20
+S1
+R4
+R26
+R22
+R23
+L0 166
+R8
+r1
+!s85 0
+31
+R9
+R24
+R25
+!i113 1
+R12
+R13

@@ -1,0 +1,7 @@
+Info (10281): Verilog HDL Declaration information at Multiplier.sv(26): object "Cout" differs only in case from object "cout" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Multiplier.sv Line: 26
+Info (10281): Verilog HDL Declaration information at Adder.sv(8): object "b" differs only in case from object "B" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv Line: 8
+Info (10281): Verilog HDL Declaration information at Adder.sv(26): object "p" differs only in case from object "P" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv Line: 26
+Info (10281): Verilog HDL Declaration information at Adder.sv(51): object "p" differs only in case from object "P" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv Line: 51
+Info (10281): Verilog HDL Declaration information at Adder.sv(73): object "cin" differs only in case from object "Cin" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv Line: 73
+Info (10281): Verilog HDL Declaration information at Adder.sv(73): object "p" differs only in case from object "P" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv Line: 73
+Info (10281): Verilog HDL Declaration information at Adder.sv(73): object "g" differs only in case from object "G" in the same scope File: G:/VLSI_ASIC_IC_designs/Matrix/Adder.sv Line: 73

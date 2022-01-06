@@ -1,0 +1,30 @@
+module Dot_product_tb; 
+	reg clk;
+	//input [3:0]b;
+	wire [3:0]d,b;
+
+		FSM fsm(.clk(clk),.reset(reset),.b(b));
+		initial 
+		begin
+			reset=0 ;
+			clk=0;
+			#10
+			reset=1;
+			clk=0;
+			#10
+			clk=1;
+			#10
+			clk=0;
+			#10
+			clk=1;
+			#10
+			clk=0;
+			#10
+			clk=1;
+			#10
+			clk=0;
+			$stop;
+			$finish;
+		end
+		
+endmodule

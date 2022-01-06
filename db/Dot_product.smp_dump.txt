@@ -1,0 +1,12 @@
+
+State Machine - |Dot_product|FSM:v1|fstate
+Name fstate.state2 fstate.state4 fstate.state9 fstate.state8 fstate.state7 fstate.state6 fstate.state5 fstate.state1 fstate.state3 
+fstate.state1 0 0 0 0 0 0 0 0 0 
+fstate.state5 0 0 0 0 0 0 1 1 0 
+fstate.state6 0 0 0 0 0 1 0 1 0 
+fstate.state7 0 0 0 0 1 0 0 1 0 
+fstate.state8 0 0 0 1 0 0 0 1 0 
+fstate.state9 0 0 1 0 0 0 0 1 0 
+fstate.state4 0 1 0 0 0 0 0 1 0 
+fstate.state2 1 0 0 0 0 0 0 1 0 
+fstate.state3 0 0 0 0 0 0 0 1 1 
